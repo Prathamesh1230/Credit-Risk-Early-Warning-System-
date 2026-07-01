@@ -68,11 +68,6 @@ Credit-Risk-Early-Warning-System/
 
 ## How to run
 
-**Notebook:**
-```bash
-jupyter notebook Credit_Risk.ipynb
-```
-Run all cells top to bottom. The final CSV (`credit_risk_ews_final.csv`) is generated at the end.
 
 
 ## Tech stack
