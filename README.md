@@ -74,8 +74,6 @@ jupyter notebook Credit_Risk.ipynb
 ```
 Run all cells top to bottom. The final CSV (`credit_risk_ews_final.csv`) is generated at the end.
 
-**SQL queries:**
-Import `credit_risk_ews_final.csv` into MySQL and run `Credit_Risk_System.sql`.
 
 ## Tech stack
 
