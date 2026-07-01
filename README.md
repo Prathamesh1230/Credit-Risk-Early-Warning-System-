@@ -68,8 +68,6 @@ Credit-Risk-Early-Warning-System/
 
 ## How to run
 
-
-
 ## Tech stack
 
 Python, Pandas, NumPy, Scikit-learn (MinMaxScaler), Matplotlib, Seaborn, MySQL
